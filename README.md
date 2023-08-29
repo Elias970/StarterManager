@@ -8,7 +8,8 @@ The StarterManager is designed for Ubuntu and Ubuntu-based distributions.
    ```bash
    $ sudo chmod u+x Starter-Manager.sh install.sh
 2. Execute the install file:
-   ```$ sudo ./install.sh```
+      ```bash
+   $ sudo ./install.sh
 
 ####Note
 Using the Starter-Manager always requires executing it with sudo.
