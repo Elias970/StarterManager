@@ -11,5 +11,5 @@ The StarterManager is designed for Ubuntu and Ubuntu-based distributions.
       ```bash
    $ sudo ./install.sh
 
-####Note
+Note
 Using the Starter-Manager always requires executing it with sudo.
